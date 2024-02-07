@@ -98,8 +98,8 @@
     </VS2022>
     <XCODE_MAC targetFolder="Builds/MacOSX">
       <CONFIGURATIONS>
-        <CONFIGURATION isDebug="1" name="Debug" targetName="Flanger"/>
-        <CONFIGURATION isDebug="0" name="Release" targetName="Flanger"/>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="aalto_conv_rev"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="aalto_conv_rev"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
         <MODULEPATH id="juce_audio_basics" path="../../dependencies/JUCE/modules"/>
