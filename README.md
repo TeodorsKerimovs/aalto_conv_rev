@@ -7,3 +7,7 @@ INSTRUCTIONS
 3. After the build succeeds, you will find the .vst3 file in \Builds\VisualStudio2022\x64\Release\VST3
 
 NOTE - The 'dsp' and 'modules' folders were provided by NeuralDSP as a part of the course and can be found on their repo https://github.com/Neural-DSP/modern-rt-audio-course. For our purpose, we mainly edited the RingMod file found in the 'dsp' folder. 
+
+Check video of guitar through piano:
+https://youtu.be/HHMxToesaio?si=dpGqXeFrmIIUOL0M
+
