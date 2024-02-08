@@ -8,6 +8,6 @@ INSTRUCTIONS
 
 NOTE - The 'dsp' and 'modules' folders were provided by NeuralDSP as a part of the course and can be found on their repo https://github.com/Neural-DSP/modern-rt-audio-course. For our purpose, we mainly edited the RingMod file found in the 'dsp' folder. 
 
-Check video of guitar through piano:
+Check out video of guitar through piano:
 https://youtu.be/HHMxToesaio?si=dpGqXeFrmIIUOL0M
 
